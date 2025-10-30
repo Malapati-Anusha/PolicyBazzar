@@ -1,0 +1,10 @@
+main\CarInsurance_Page.class
+utilities\ExcelWriterUtil.class
+base\BaseClass.class
+main\EGHInsurance_Page.class
+utilities\ConfigReader.class
+main\BasePage.class
+utilities\AllureReportOpener.class
+main\MedicalInsurance_Page.class
+utilities\MedicalInsuranceUtil.class
+utilities\AllureReportCleaner.class
