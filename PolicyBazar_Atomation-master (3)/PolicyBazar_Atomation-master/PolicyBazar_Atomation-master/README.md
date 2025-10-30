@@ -93,7 +93,7 @@ To get this project running on your local machine, follow these steps:
     Open your terminal or command prompt and run:
 
     ```bash
-    git clone (https://github.com/RazaKashif-dev/PolicyBazar_Atomation.git)
+    git clone 
     cd PolicyBazar_Automation
     ```
 
